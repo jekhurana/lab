@@ -1,2 +1,2 @@
 # lab
-Working lab for various POCs
+Working lab for various POCs.
